@@ -28,18 +28,6 @@ I chose Python for this project because:
 
 ---
 
-## 📂 Repository Structure
-
-```
-📁 iphone-sales-forecasting/
-├── 📄 README.md
-├── 📊 Iphone_Sales_Data.csv
-├── 📓 iPhone_17_Forecasting_Analysis.ipynb
-└── 🐍 iphone_forecast.py (optional)
-```
-
----
-
 ## 📊 The Data
 
 | Column | Description |
